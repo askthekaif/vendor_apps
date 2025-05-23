@@ -15,9 +15,9 @@ android_app_import {
 }
 
 android_app_import {
-    name: "KernelSUNext",                          // KernelSU Next app module
-    owner: "rifsxd",
-    apk: "ksun.apk",                               // Path to the KSUN Manager APK
+    name: "SukiSU",                          // SukiSU app module
+    owner: "sukisu",
+    apk: "SukiSU.apk",                               // Path to the SukiSU Manager APK
     presigned: true,
     preprocessed: true,  
     dex_preopt: {
