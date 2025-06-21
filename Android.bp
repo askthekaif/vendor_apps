@@ -15,9 +15,9 @@ android_app_import {
 }
 
 android_app_import {
-    name: "KernelSUNext",                          // KernelSU Next app module
-    owner: "rifsxd",
-    apk: "ksun.apk",                               // Path to the KSUN Manager APK
+    name: "GScam",                          // Camera app module
+    owner: "google",
+    apk: "sgcam.apk",                               // Path to the Camera APK
     presigned: true,
     preprocessed: true,  
     dex_preopt: {
